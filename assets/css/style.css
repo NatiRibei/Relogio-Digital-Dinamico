@@ -7,7 +7,7 @@
 
 body{
     height: 100vh;
-    background: linear-gradient(120deg, #ffe53bd8, #ff2525da);
+    background: linear-gradient(120deg, #ff3bb4d8, #8325ffda);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -34,6 +34,15 @@ body{
     color: #fff;
     background: rgba(5, 5, 5, .9);
     box-shadow: 5px 5px 15px rgba(0,0,0, .7);
-    border:7px;
+    border-radius:7px;
     letter-spacing: 3px;
+}
+
+.relogio span {
+    font-weight: bolder;
+    font-size: 60px;
+}
+
+.relogio span.tempo {
+    font-size: 10px;
 }
