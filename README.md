@@ -15,12 +15,12 @@ Meu objetivo com este projeto era praticar os conceitos básicos de css e html p
 </h4>
 
 
-![Relogio](https://user-images.githubusercontent.com/91141994/205119696-1e68ece9-a1f6-4e21-8dc6-411c1bc7c1e9.gif)
+
+![projetorelogio](https://user-images.githubusercontent.com/91141994/205317433-8b01a209-b74f-4620-883c-629adc690c4d.gif)
 
 
 
 
 
+Neste <a href="https://natiribei.github.io/Relogio-Digital-Dinamico/">link</a> pode-se executar o projeto.
 
-Neste link pode-se executar o projeto.
-https://natiribei.github.io/Relogio-Digital-Dinamico/
